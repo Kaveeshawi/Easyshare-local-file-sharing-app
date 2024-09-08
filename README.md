@@ -57,15 +57,13 @@ Please refer to the following images for a visual guide to the app:
 
 ## Running the Application
 
-1. **Start the Flask application:**
+There are two ways.
+1. **Run Easyshare.exe file**
 
+2. **Go to directory, open cmd & start the application:**
     ```bash
     python app.py
     ```
-
-2. **Access the application in your web browser:**
-
-    Open your browser and go to `http://127.0.0.1:5000/` or the local DNS name you have set up.
 
 ## Usage
 
