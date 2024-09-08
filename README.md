@@ -16,9 +16,11 @@ Please refer to the following images for a visual guide to the app:
 1. **Main Interface**:
    ![Main Interface](/screenshots/interface.png)
 
-2. **Rename File**:
-   ![Rename File](/screenshots/rename.png)
+3. **Mobile**:
+   ![Mobile](/screenshots/mobile.png)
 
+3. **Rename File**:
+   ![Rename File](/screenshots/rename.png)
    
 ## Prerequisites
 
@@ -31,7 +33,7 @@ Please refer to the following images for a visual guide to the app:
 1. **Clone the repository:**
 
     ```bash
-   git clone https://github.com/Kaveeshawi/Easyshare.git
+   git clone https://github.com/Kaveeshawi/Easyshare-local-file-sharing-app.git
     ```
 
 2. **Install the required Python packages:**
