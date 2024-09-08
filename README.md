@@ -9,6 +9,17 @@ Easyshare is a simple Flask-based web application for local file sharing. It all
 - **Rename Files**: Allows renaming of uploaded files.
 - **Delete Files**: Option to delete files from the server.
 
+## Sample Screenshots
+
+Please refer to the following images for a visual guide to the app:
+
+1. **Main Interface**:
+   ![Main Interface](/screenshots/interface.png)
+
+2. **Rename File**:
+   ![Rename File](/screenshots/rename.png)
+
+   
 ## Prerequisites
 
 - Python 3.x
